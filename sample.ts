@@ -1,10 +1,12 @@
 console.log("Hello , TypeScript");
 
-// let age = 22;
-// age = "23";
+// number型
+let age: number = 22;
+let height: 180.5;
 
-// function greet(firstName) {
-//   console.log(firstName);
-// }
+// string型
+let firstName: string = "Alice";
+let greeting = "Hello, TypeScript!";
 
-// console.log(2 + true);
+// boolean型
+let isCompleted: boolean = false;
